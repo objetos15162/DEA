@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Boton
+comment0.text=\n\ Clase\ madre\ de\ tipo\ bot\u00F3n,\ otras\ subclases\ heredan\ de\ ella\ maneja\ las\ imagenes\n\ utilizadas\ de\ los\ botones.\ \n\ \n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\n\ @version\ 24/05/2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Boton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

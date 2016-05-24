@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ambiental_Boton
+comment0.text=\n\ Esta\ clase\ hereda\ de\ Boton,\ es\ una\ clase\ auxiliar\ para\ manejar\ los\ botones\ del\ juego.\n\ utilizadas\ de\ los\ botones.\ \n\ \n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\n\ @version\ 24/05/2016\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Ambiental_Boton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

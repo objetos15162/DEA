@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\n\ Clase\ para\ definir\ al\ enemigo,\ sus\ movimientos,\ sus\ imagenes\ y\ atributo.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Enemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ DaImagen1()
+comment2.text=\n\ M\u00E9todo\ de\ acceso\ a\ la\ imagen\n
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ DaImagen2()
+comment4.params=im
+comment4.target=void\ CambiaImagen(greenfoot.GreenfootImage)
+comment5.params=band\ im
+comment5.target=void\ InicializaImg(int,\ java.lang.String)
+comment6.params=t
+comment6.target=void\ setTipo(char)
+numComments=7

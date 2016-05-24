@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Especial
+comment0.text=\r\n\ Todo\ lo\ relacionado\ con\ el\ poder\ Especial\ que\ el\ usuario\ puede\ disparar.\ \r\n\ \r\n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\r\n\ @version\ 24/05/2016\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Especial\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\ Si\ toca\ el\ borde\r\n\ o\ si\ el\ contador\ es\ mejor\ o\ igual\ a\ cero,\ remueve\ el\ Especial.\ Si\ toca\ algun\ \r\n\ objeto\ de\ tipo\ especial\ disminuye\ el\ contador.\r\n\ \r\n\ @param\ cont.\ De\ tipo\ entero\ para\ contabilizar\ las\ veces\ que\ el\ arma\ especial\ \r\n\ puede\ actuar\ antes\ de\ desaparecer\ por\ contacto\ con\ la\ clase\ enemigo.\r\n
+numComments=2

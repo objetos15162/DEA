@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CivilZ
+comment0.text=\r\n\ Enemigo\ Zombie\ de\ tipo\ Civil.\ Es\ simplemente\ una\ clase\ para\ definir\ un\ tipo\r\n\ diferente\ de\ enemigo;\ hereda\ de\ la\ clase\ Comun.\r\n\ \r\n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\ \r\n\ @version\ 25/05/2016\r\n
+comment1.params=nombre\ t
+comment1.target=CivilZ(java.lang.String,\ java.lang.Character)
+numComments=2

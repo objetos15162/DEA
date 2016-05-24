@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=derrotaWorld
+comment0.text=\n\ La\ clase\ derrotaWorld\ nos\ sirve\ para\ mostrar\ una\ pantalla\ al\ momento\ de\ que\ el\ jugador\n\ se\ queda\ sin\ vida\ y\ por\ lo\ tanto\ ha\ perdido\ la\ partida.\n\ \n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\n\ @version\ 24/05/2016\n
+comment1.params=s
+comment1.target=derrotaWorld(greenfoot.GreenfootSound)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ worldVictoria.\n\ \n\ @param\ s,\ de\ tipo\ GreenfootSound,\ el\ metodo\ recibe\ como\ parametro\ el\ sonido\ que\ \n\ emitir\u00E1\ al\ momento\ de\ poner\ en\ pantalla\ la\ imagen\ de\ derrota.\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Control
+comment0.text=\r\n\ El\ arma\ del\ Infocomp.\ Un\ control\ de\ xbox.\r\n\ \r\n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\r\n\ @version\ 24/05/2016\r\n
+comment1.params=angulo
+comment1.target=Control(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Control.\ Inicializa\ las\ imagenes\r\n\ que\ tendra\ el\ objeto.\r\n\ @param\ angulo.\ De\ tipo\ int\ para\ indicar\ que\ tanto\ angulo\r\n\ gira\ el\ arma\ para\ salir\ en\ la\ direccion\ deseada.\r\n
+numComments=2

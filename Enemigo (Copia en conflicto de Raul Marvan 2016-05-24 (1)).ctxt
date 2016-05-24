@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\r\n\ Clase\ para\ definir\ al\ enemigo,\ sus\ movimientos,\ sus\ imagenes\ y\ atributo.\r\n\ \r\n\ @author\ Luis\ Carlos\ Bacasehua\ Morales\ &\ Ra\u00FAl\ Marv\u00E1n\ Medina\ \r\n\ @version\ 24/05/2016\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ golpeEnemigo()
+comment2.text=\r\n\ M\u00E9todo\ que\ nos\ informa\ sobre\ si\ el\ enemigo\ fue\ golpeado\ por\ un\ poder\ del\ \r\n\ jugador.\ De\ ser\ as\u00ED\ su\ vida\ se\ actualiza\ con\ un\ -10.\ \r\n\ S\u00ED\ su\ vida\ es\ menor\ a\ 0,\ entonces\ se\ activa\ una\ bandera\ para\ se\u00F1alar\ que\ se\ \r\n\ debe\ de\ remover\ del\ juego.\r\n
+comment3.params=
+comment3.target=void\ golpeEspecial()
+comment3.text=\r\n\ M\u00E9todo\ para\ verificar\ si\ el\ poder\ especial\ de\ jugador\ ha\ golpeado\ al\ enemigo.\r\n\ De\ ser\ as\u00ED\ su\ vida\ se\ actualiza\ con\ un\ -100.\ \r\n\ S\u00ED\ su\ vida\ es\ menor\ a\ 0,\ entonces\ se\ activa\ una\ bandera\ para\ se\u00F1alar\ que\ se\ \r\n\ debe\ de\ remover\ del\ juego\r\n
+comment4.params=
+comment4.target=void\ tocaJugador()
+comment4.text=\r\n\ M\u00E9todo\ que\ nos\ informa\ si\ nuestra\ clase\ Enemigo\ ha\ tocado\ a\ la\ clase\ jugador.\r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ DaImagen1()
+comment5.text=\r\n\ M\u00E9todo\ de\ acceso\ a\ la\ imagen\r\n
+comment6.params=
+comment6.target=greenfoot.GreenfootImage\ DaImagen2()
+comment7.params=im
+comment7.target=void\ CambiaImagen(greenfoot.GreenfootImage)
+comment8.params=band\ im
+comment8.target=void\ InicializaImg(int,\ java.lang.String)
+comment9.params=t
+comment9.target=void\ setTipo(char)
+numComments=10
